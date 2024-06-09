@@ -19,3 +19,5 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [6 - Orçamento](006%20-%20Orçamento%20do%20Projeto.pdf)
 
 [7 - Riscos](007%20-%20Riscos%20do%20Projeto.pdf)
+
+[8 - Entrega](008%20-%20Entrega%20do%20Projeto.pdf)
