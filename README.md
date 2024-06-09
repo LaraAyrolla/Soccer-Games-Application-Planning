@@ -11,3 +11,5 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [2 - Termo de Abertura](002%20-%20Termo%20de%20Abertura%20do%20Projeto.pdf)
 
 [3 - Regras](003%20-%20Regras%20do%20Projeto.pdf)
+
+[4 - Declaração do Escopo](004%20-%20Declaração%20do%20Escopo%20do%20Projeto.pdf)
