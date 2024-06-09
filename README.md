@@ -21,3 +21,7 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [7 - Riscos](007%20-%20Riscos%20do%20Projeto.pdf)
 
 [8 - Entrega](008%20-%20Entrega%20do%20Projeto.pdf)
+
+## Entrega do projeto:
+- O código fonte da aplicação criada com uma descrição mais detalhada pode ser acessado através [deste link](https://github.com/LaraAyrolla/Soccer-Games).
+- A aplicação web remota pode ser acessada através [deste link](http://168.138.152.94:8000/).
