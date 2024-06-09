@@ -17,3 +17,5 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [5 - Cronograma](005%20-%20Cronograma%20do%20Projeto.pdf)
 
 [6 - Orçamento](006%20-%20Orçamento%20do%20Projeto.pdf)
+
+[7 - Riscos](007%20-%20Riscos%20do%20Projeto.pdf)
