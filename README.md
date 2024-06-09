@@ -7,3 +7,5 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [Ata de Reunião de Kickoff](000%20-%20Ata%20de%20Reunião%20de%20Kickoff.pdf)
 
 [1 - Carta do Projeto](001%20-%20Carta%20do%20Projeto.pdf)
+
+[2 - Termo de Abertura](002%20-%20Termo%20de%20Abertura%20do%20Projeto.pdf)
