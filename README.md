@@ -15,3 +15,5 @@ Planejamento do desenvolvimento de uma aplicação web para a criação e gerenc
 [4 - Declaração do Escopo](004%20-%20Declaração%20do%20Escopo%20do%20Projeto.pdf)
 
 [5 - Cronograma](005%20-%20Cronograma%20do%20Projeto.pdf)
+
+[6 - Orçamento](006%20-%20Orçamento%20do%20Projeto.pdf)
